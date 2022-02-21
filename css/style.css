@@ -131,10 +131,6 @@ p {
   overflow: hidden;
 }
 
-.accordion-collapse {
-  padding: 1rem;
-}
-
 footer .connect-logo {
   display: flex;
   justify-content: center;
