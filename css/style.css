@@ -24,8 +24,18 @@ p {
   line-height: 20px;
 }
 
+section.container {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
 .bg-f1f3ff {
   background-color: #f1f3ff;
+}
+
+.text-align-justify {
+  text-align: justify;
+  width: 90%;
 }
 
 .font-bold {
